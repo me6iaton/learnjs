@@ -30,3 +30,11 @@
 
 - [современный учебник js](https://learn.javascript.ru/)
 - [Дэвид Флэнаган "JavaScript. Подробное руководство" (6-е издание)](https://vk.com/doc10903696_309832418?hash=1194c2e4cabeda722a&dl=8a9b578f3f62fb1fae)
+
+### debug tools
+- node --inspect --debug-brk index.js
+- [devtool](https://github.com/Jam3/devtool), [devtool guide](https://mattdesl.svbtle.com/debugging-nodejs-in-chrome-devtools)
+- [inspect-process](https://github.com/jaridmargolin/inspect-process)
+- [webstorm ide](https://www.jetbrains.com/webstorm/)
+- [visual studio code editor](https://code.visualstudio.com/)
+- [nuclide editor](https://nuclide.io/)
